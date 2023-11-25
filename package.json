@@ -1,10 +1,10 @@
 {
-  "name": "json-server-for-search-aviatickets",
+  "name": "search-for-flights-vite-rdux-toolkit-ts",
   "version": "1.0.0",
   "description": "fake API",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --watch db.json --port 4000"
   },
   "author": "terrorbladegodlike",
   "license": "ISC",

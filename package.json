@@ -1,0 +1,14 @@
+{
+  "name": "json-server-for-search-aviatickets",
+  "version": "1.0.0",
+  "description": "fake API",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "terrorbladegodlike",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
